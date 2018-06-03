@@ -1,5 +1,5 @@
 These functions implement a subspace clustering algorithm, proposed by Ye Zhu, Kai Ming Ting, and Mark J. Carman: 
-"Grouping Points by Shared Subspaces for Effective Subspace Clustering", under reviewed by Pattern Recognition.
+"Grouping Points by Shared Subspaces for Effective Subspace Clustering", to appear in Pattern Recognition Journal at https://doi.org/10.1016/j.patcog.2018.05.027
 
 Written by Ye Zhu, Deakin University, 28 March 2018, version 1.0 (ye.zhu@ieee.org).
 
